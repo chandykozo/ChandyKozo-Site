@@ -7,3 +7,5 @@ where I wrote code to create a quiz game. It gives you the final score after the
 This is my first website which I created while I learning about Git and Github.
 
 I made a Initial Commit after I updated the index.html with an html page layout.
+
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
