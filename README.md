@@ -11,3 +11,10 @@ This is my first website which I created while I learning about Git and Github.
 I made a Initial Commit after I updated the index.html with an html page layout.
 
 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+For now I know:
+
+1. JavaScript
+2. NodeJS
+3. Repl.it
+4. Chalk
