@@ -1,3 +1,5 @@
+# Personal Portfolio
+
 Hi I'm Chandy Kozo
 This is my personal portfolio, which I have created for demo purposes.
 
